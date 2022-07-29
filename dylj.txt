@@ -26,6 +26,5 @@ vmess://ws+tls:8f9b60e6-1db3-42e4-97b9-1e311f427649-0@api.qiscus.com:443/?host=b
 
 vmess://ws+tls:39275c8f-4a8a-4b8d-9651-da681445a277-0@104.21.232.35:443/?host=m2.v2rayfree1.xyz&path=/ray&tlsServerName=m2.v2rayfree1.xyz#美国(油管:破解资源君2.0)
 
-
 vless://6892b798-e3ba-4cec-adf5-f3074bc2f1ae@goodnet.ga:443?encryption=none&security=tls&type=grpc&host=goodnet.ga&path=bexygrpc&serviceName=bexygrpc&alpn=h2&sni=goodnet.ga#goodnet.ga_VLESS_gRPC
 
